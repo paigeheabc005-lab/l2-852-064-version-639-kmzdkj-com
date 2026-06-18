@@ -1,0 +1,21 @@
+{
+    "movies_parsed": 2000,
+    "video_sources": 20,
+    "detail_pages": 2000,
+    "category_pages": 10,
+    "html_pages": 2015,
+    "analytics_pages": 2015,
+    "player_pages": 2000,
+    "categories": {
+        "剧情佳片": 200,
+        "喜剧专区": 200,
+        "爱情片单": 200,
+        "悬疑推理": 200,
+        "动作冒险": 200,
+        "科幻奇幻": 200,
+        "恐怖惊悚": 200,
+        "犯罪黑色": 200,
+        "家庭温情": 200,
+        "经典精选": 200
+    }
+}
